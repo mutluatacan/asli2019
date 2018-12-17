@@ -1903,7 +1903,7 @@
             "overlayOpacity": "0.2"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br><br><br>Yine kendime... ❣️",
+          "title": "<br>Yine kendime... ❣️",
           "text": "<span style=\"font-style: normal;\">Işıkla birlikte sessizlik gelir, dememişlerdi.\n<br>Deselerdi, karanlığına tutunmaya devam etmez miydin?\n<br>Ederdim. </span><br><span style=\"font-style: normal;\">Ama şimdi, </span><br><span style=\"font-style: normal;\">ışıktan çok beraberinde gelen sessizliği seviyorum.\n</span><br><span style=\"font-style: normal;\">İnsan böyle bir şey... </span><br><span style=\"font-style: normal;\">Yaşayıp anlayan türden.&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
           "alias": "colorm/components",
