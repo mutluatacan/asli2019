@@ -6,7 +6,7 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
+        "primaryColor": "#e5affa",
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
@@ -22,13 +22,14 @@
       },
       "additionalSetColors": [
         "#c4584d",
-        "#ba85cf"
+        "#ba85cf",
+        "#e5affa"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -342,6 +343,36 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8e44ad",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<br>Copyright (c) 2018 Aslı Ünal Can<br><br><br>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-14"
         }
       ]
     },
@@ -651,6 +682,36 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-12"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8e44ad",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<br>Copyright (c) 2018 Aslı Ünal Can<br><br><br>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-14"
         }
       ]
     },
@@ -960,6 +1021,36 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-13"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8e44ad",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<br>Copyright (c) 2018 Aslı Ünal Can<br><br><br>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-14"
         }
       ]
     },
@@ -1269,6 +1360,36 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8e44ad",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<br>Copyright (c) 2018 Aslı Ünal Can<br><br><br>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-14"
         }
       ]
     },
@@ -1578,6 +1699,36 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-11"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8e44ad",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<br>Copyright (c) 2018 Aslı Ünal Can<br><br><br>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-14"
         }
       ]
     },
@@ -1813,7 +1964,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#e5affa!important"
             }
           },
           "_params": {
@@ -1936,7 +2087,7 @@
             "showSubtitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
@@ -1963,7 +2114,7 @@
           },
           "title": "DROP-DEAD EASY <br>WEBSITE<br> MAKER",
           "subtitle": "<b><br><br><br>aslı ünal can</b>",
-          "text": "2002 yılından beri vermekte olduğum yoga derslerime, 2013 yılında, <br>sözlü geleneğin en kıymetli öğreticilerinden Ferhan Yüksel'le öğrenmeye başlayıp, <br>Arya Vaidya Pharmacy Enstitüsü ve Dr. Somit Kumar ve Dr. Dinnil Paul ile <br>devam etmekte olduğum ayurvedik disiplini de entegre etmekteyim.\n<br>\n<br>3 yıldır \"İyi Yaşama Programı\" adını verdiğim, kendi oluşturduğum bir sistemle <br>1, 3 ve/veya 5 günlük, bireysel terapi + inziva programları yapmaktayım.\n<br>\n<br>Düzenli yoga ve ayurveda çalışmalarımı yaşadığım şehir olan Ankara'da devam <br>ettirmekle birlikte, sırt çantamla gidebileceğim her yerde Hipokrat'tan İbni Sina'ya <br>Sağlık ve Hastalık Söyleşilerini ve Can, Nefs ve Nefes Atölyelerini yapmaktayım.\n<br>\n<br>İnsanın sevdiği işi yapması ya da yaptığı işi sevmesi çok önemli. <br>Bundan 12 yıl önce, 8 yıllık üniversite okutmanlığını 30 saniye içinde bitirdiğim <br>iş hayatımın özgür ilk gününü hiç unutamam. Bazı insanların durum şarkıları vardır. <br>Bir durum yaşanırken, bir olayın içindelerken zihinlerinde çalar bu şarkı. <br>Bazen birden fazladır. Üzgün anlar için bir tane, mutlu anlar için başka bir tane vb. …\n<br>\n<br>Benim mutlu ruh hali durum şarkım çalıyordu zihnimde, istifamı verip, <br>taksiye atladığım o gün. Gökyüzü hiç görmediğim kadar mavi, ağaçlar <br>hiç farketmediğim kadar yeşildi. Yüzümde engel olamadığım bir gülümseme, <br>hatta belki bir sırıtış… <br><br>Ve zihnimde o şarkım: Fly me to the moon, let me play among the stars… <br>Umarım mutluluk şarkılarımız her pazartesi, her salı ve haftanın her günü <br>çalar zihinlerimizde. Ve o mutluluk sırıtışı hiç eksik olmaz yüzlerimizden.\n<br>\n<br><b>Herkesin sevdiği işi yapabilmesi dileğiyle…</b>&nbsp;<br>",
+          "text": "2002 yılından beri vermekte olduğum yoga derslerime, 2013 yılında, sözlü geleneğin en kıymetli öğreticilerinden Ferhan Yüksel'le öğrenmeye başlayıp, Arya Vaidya Pharmacy Enstitüsü ve Dr. Somit Kumar ve Dr. Dinnil Paul ile devam etmekte olduğum ayurvedik disiplini de entegre etmekteyim.\n<br>\n<br>3 yıldır \"İyi Yaşama Programı\" adını erdiğim, kendi oluşturduğum bir sistemle 1, 3 ve/veya 5 günlük, bireysel terapi + inziva programları yapmaktayım.\n<br>\n<br>Düzenli yoga ve ayurveda çalışmalarımı yaşadığım şehir olan Ankara'da devam ettirmekle birlikte, sırt çantamla gidebileceğim her yerde Hipokrat'tan İbni Sina'ya Sağlık ve Hastalık Söyleşilerini ve Can, Nefs ve Nefes Atölyelerini yapmaktayım.\n<br>\n<br>İnsanın sevdiği işi yapması ya da yaptığı işi sevmesi çok önemli.&nbsp;Bundan 12 yıl önce, 8 yıllık üniversite okutmanlığını 30 saniye içinde bitirdiğim iş hayatımın özgür ilk gününü hiç unutamam. Bazı insanların durum şarkıları vardır. Bir durum yaşanırken, bir olayın içindelerken zihinlerinde çalar bu şarkı. Bazen birden fazladır. Üzgün anlar için bir tane, mutlu anlar için başka bir tane vb. …\n<br>\n<br>Benim mutlu ruh hali durum şarkım çalıyordu zihnimde, istifamı verip, taksiye atladığım o gün. Gökyüzü hiç görmediğim kadar mavi, ağaçlar hiç farketmediğim kadar yeşildi. Yüzümde engel olamadığım bir gülümseme, hatta belki bir sırıtış… <br><br>Ve zihnimde o şarkım: <i><b>Fly me to the moon, let me play among the stars… </b></i><br><br>Umarım mutluluk şarkılarımız her pazartesi, her salı ve haftanın her günü <br>çalar zihinlerimizde. Ve o mutluluk sırıtışı hiç eksik olmaz yüzlerimizden.\n<br>\n<br><i><b>Herkesin sevdiği işi yapabilmesi dileğiyle…</b>&nbsp;</i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -1971,6 +2122,36 @@
           ],
           "_name": "header7",
           "_anchor": "header7-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8e44ad",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<br>Copyright (c) 2018 Aslı Ünal Can<br><br><br>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-14"
         }
       ]
     }
