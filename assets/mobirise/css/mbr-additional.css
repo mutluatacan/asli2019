@@ -899,8 +899,8 @@ blockquote {
 }
 #header1-f .mbr-section-title {
   font-family: 'Merriweather', serif;
-  font-size: 48px;
-  text-align: left;
+  font-size: 32px;
+  text-align: center;
   color: #ffffff;
 }
 #header1-f .mbr-section-text {
@@ -912,6 +912,13 @@ blockquote {
 #header1-f .mbr-section-text SPAN {
   font-family: 'Merriweather', serif;
   font-size: 14px;
+}
+#content3-t .mbr-section-title,
+#content3-t .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-t H3 {
+  font-size: 18px;
 }
 
 
@@ -994,8 +1001,8 @@ blockquote {
 }
 #header1-e .mbr-section-title {
   font-family: 'Merriweather', serif;
-  font-size: 48px;
-  text-align: left;
+  font-size: 32px;
+  text-align: center;
   color: #ffffff;
 }
 #header1-e .mbr-section-text {
@@ -1007,6 +1014,13 @@ blockquote {
 #header1-e .mbr-section-text SPAN {
   font-family: 'Merriweather', serif;
   font-size: 14px;
+}
+#content3-z .mbr-section-title,
+#content3-z .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-z H3 {
+  font-size: 18px;
 }
 
 
@@ -1089,8 +1103,8 @@ blockquote {
 }
 #header1-d .mbr-section-title {
   font-family: 'Merriweather', serif;
-  font-size: 48px;
-  text-align: left;
+  font-size: 32px;
+  text-align: center;
   color: #ffffff;
 }
 #header1-d .mbr-section-text {
@@ -1102,6 +1116,13 @@ blockquote {
 #header1-d .mbr-section-text SPAN {
   font-family: 'Merriweather', serif;
   font-size: 14px;
+}
+#content3-x .mbr-section-title,
+#content3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-x H3 {
+  font-size: 18px;
 }
 
 
@@ -1184,8 +1205,8 @@ blockquote {
 }
 #header1-c .mbr-section-title {
   font-family: 'Merriweather', serif;
-  font-size: 48px;
-  text-align: left;
+  font-size: 32px;
+  text-align: center;
   color: #ffffff;
 }
 #header1-c .mbr-section-text {
@@ -1197,6 +1218,13 @@ blockquote {
 #header1-c .mbr-section-text SPAN {
   font-family: 'Merriweather', serif;
   font-size: 14px;
+}
+#content3-v .mbr-section-title,
+#content3-v .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-v H3 {
+  font-size: 18px;
 }
 
 
@@ -1374,7 +1402,7 @@ blockquote {
 }
 #header1-3 .mbr-section-title {
   font-family: 'Merriweather', serif;
-  font-size: 48px;
+  font-size: 32px;
   text-align: left;
   color: #ffffff;
 }
